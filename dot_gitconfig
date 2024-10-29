@@ -1,0 +1,11 @@
+[user]
+	name = boris-tikhomiroff
+	email = 91792305+boris-tikhomiroff@users.noreply.github.com
+[core]
+	excludesfile = /Users/boristikhomiroff/.gitignore
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+[init]
+	defaultBranch = main
+[pull]
+	ff = true
