@@ -1,0 +1,2 @@
+# Load custom functions
+source ~/.config/zsh/functions.sh
